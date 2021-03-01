@@ -44,6 +44,7 @@ public class ArrayRotation {
 		// TODO Auto-generated method stub
 		int A[] = {0};
 		solution(A, 2);
+		System.out.println("Changes in git");
 	}
 
 }
